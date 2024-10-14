@@ -1,17 +1,27 @@
-## Hi there 👋
+Hi there, I'm Mohsen [Mo-h-sen]! 👋
 
-<!--
-**dmohsen23/dmohsen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
 
-Here are some ideas to get you started:
-My name is Mohsen and I currently my forth year of Ph.D. at Eindhoven University of Technology. I also have this oppurtunity to work as a visiting Ph.D. student at Computer Lab at the University of Cambridge.
+I’m a fourth-year Ph.D. student in Industrial Engineering at Eindhoven University of Technology. I currently have the opportunity to be a visiting Ph.D. student at the Computer Lab at the University of Cambridge.
+My research focuses on developing explainable and trustworthy AI-based algorithms for decision-making in healthcare and industrial environments. I am currently focused on developing explainable decision-support tools for medical imaging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also passionate about photography, travel, art, history, hiking, running, bouldering, and soccer. If you're into photography, feel free to check out my [Instagram](https://www.instagram.com/eyewitness_23).
+
+🛠 Technologies & Tools
+
+📈 GitHub Stats
+
+🏆 GitHub Trophies
+
+📂 Featured Projects
+
+    Project Name
+    Brief description of the project.
+
+    Another Project
+    Brief description of the project.
+
+🔗 Connect with Me
+
+
+Thanks for visiting my GitHub profile! 😊
