@@ -4,6 +4,7 @@
 **dmohsen23/dmohsen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+My name is Mohsen and I currently my forth year of Ph.D. at Eindhoven University of Technology. I also have this oppurtunity to work as a visiting Ph.D. student at Computer Lab at the University of Cambridge.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
