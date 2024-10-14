@@ -1,4 +1,6 @@
-Hi there, I'm Mohsen [Mo-h-sen]! 👋
+**Hi there, I'm Mohsen [Mo-h-sen]!** 👋
+
+My profile picture was taken at the summit of Savalan Mountain in Ardabil, Iran, my hometown.
 
 🌟 About Me
 
