@@ -10,23 +10,6 @@ My research focuses on developing explainable and trustworthy AI-based algorithm
 I am also passionate about photography, travel, art, history, hiking, running, bouldering, and soccer. If you're into photography, feel free to check out my [Instagram](https://www.instagram.com/eyewitness_23).
 
 * 🧠 I'm learning how to use attention mechanisms to enhance the explainability of deep learning models.
-* 🤝 I'm open to collaborating on the development of intelligent decision-support tools utilizing explainable AI.
+* 🤝 I'm open to collaborating on developing intelligent decision-support tools utilizing explainable AI.
 
-🛠 Technologies & Tools
-
-📈 GitHub Stats
-
-🏆 GitHub Trophies
-
-📂 Featured Projects
-
-    Project Name
-    Brief description of the project.
-
-    Another Project
-    Brief description of the project.
-
-🔗 Connect with Me
-
-
-Thanks for visiting my GitHub profile! 😊
+Thanks for visiting my GitHub profile!
