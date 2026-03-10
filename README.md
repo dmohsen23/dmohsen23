@@ -4,12 +4,11 @@ My profile picture: the summit of Savalan Mountain in Ardabil, Iran, my hometown
 
 🌟 About Me
 
-I’m a fourth-year Ph.D. student in Industrial Engineering at Eindhoven University of Technology. I currently have the opportunity to be a visiting Ph.D. student at the Computer Lab at the University of Cambridge.
-My research focuses on developing explainable and trustworthy AI-based algorithms for decision-making in healthcare and industrial environments. I am currently focused on developing explainable decision-support tools for medical imaging.
+Hey there! 👋 I'm Mohsen — a Data Scientist and AI researcher passionate about making machine learning models not just accurate, but explainable and trustworthy.
+I completed my PhD at TU/e (Eindhoven) and had the chance to work at the Computer Lab at the University of Cambridge. My work spans clinical decision support, credit risk modeling, and medical imaging — always with a focus on building AI that domain experts can actually understand and rely on.
+Lately, I've been exploring LLM explainability and building decision support tools that align with real-world regulations like the EU AI Act.
+Feel free to explore my repos or reach out — always happy to connect! 🚀
 
 I am also passionate about photography, travel, art, history, hiking, running, bouldering, and soccer. If you're into photography, feel free to check out my [Instagram](https://www.instagram.com/eyewitness_23).
-
-* 🧠 I'm learning how to use attention mechanisms to enhance the explainability of deep learning models.
-* 🤝 I'm open to collaborating on developing intelligent decision-support tools utilizing explainable AI.
 
 Thanks for visiting my GitHub profile!
